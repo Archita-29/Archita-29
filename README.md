@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Archita-29&style=flat-square&color=grey" />
+</p>
+
 <h1 align="center">Hi!👋 I'm Archita Singh</h1>
 
 <p align="center">
