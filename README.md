@@ -18,7 +18,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,C++,FastAPI,Flask,PostgresSQL,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,vscode,fastapi,flask,git,github" />
 </p>
 
 ---
