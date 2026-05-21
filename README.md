@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Archita Singh</h1>
+<h1 align="center">Hi!👋 I'm Archita Singh</h1>
 
 <p align="center">
   CS-DS Student | Full Stack Developer | AI/ML Enthusiast
@@ -46,6 +46,12 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Archita-29&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Archita-29&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Archita-29&theme=github-dark-blue&hide_border=true" />
 </p>
