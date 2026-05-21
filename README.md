@@ -22,12 +22,10 @@
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,fastapi,flask" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,postgres,fastapi,flask" />
 </p>
 
 ---
-
-## Machine Learning & Data Science
 
 ## Machine Learning & Data Science
 
@@ -45,8 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  
+  <img height="45" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 </p>
 
 ## GitHub Overview
