@@ -44,12 +44,10 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-## GitHub Stats
+## GitHub Overview
 
-<div align="center">
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Archita-29&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Archita-29&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Archita-29&theme=github_dark" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Archita-29&theme=github_dark" />
+</p>
