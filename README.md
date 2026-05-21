@@ -36,6 +36,8 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </p>
 
+---
+
 ## Tools & Platforms
 
 <p align="center">
@@ -47,6 +49,8 @@
   
   <img height="45" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
 </p>
+
+---
 
 ## GitHub Overview
 
